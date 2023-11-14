@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ParcialPractica2
 {
-    internal class Cliente:IComparable
+    public class Cliente:IComparable
     {
         private string razonSocial;
         private int codigo;

@@ -12,24 +12,32 @@ namespace ParcialPractica2
         public int UltimoCodigo
         {
             get { return UltimoCodigo; }
-            set {  UltimoCodigo = value; }
+            set { UltimoCodigo = value; }
         }
         public int TotalDeClientes
         {
             get { return TotalDeClientes; }
-            set {  TotalDeClientes = value; }
+            set { TotalDeClientes++; }
         }
         public bool AgregarCliente(Cliente nuevoCliente)
         {
-            listado.Add(nuevoCliente);
+            bool ret = false;
+            listado.Sort();
+            if (listado.BinarySearch(nuevoCliente) < 0)
+            {
+                listado.Add(nuevoCliente);
+            }
+            else
+                ret = true;
+            return ret;
         }
         public bool BorrarCliente(int codigo)
         {
 
         }
-        public Cliente VerCliente() 
+        public Cliente VerCliente()
         {
-            
+
         }
         public Cliente[] ListaCompleta()
         {
