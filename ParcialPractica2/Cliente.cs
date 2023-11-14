@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ParcialPractica2
 {
-    internal class Cliente
+    internal class Cliente:IComparable
     {
         private string razonSocial;
         private int codigo;
@@ -34,6 +34,11 @@ namespace ParcialPractica2
         public double LeerSaldo()
         {
             return saldo;
+        }
+
+        public int CompareTo(object obj)
+        {
+            return this.codigo.CompareTo(((Cliente)obj).codigo);
         }
     }
 }
