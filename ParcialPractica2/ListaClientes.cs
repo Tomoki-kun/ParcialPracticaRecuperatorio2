@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ParcialPractica2
 {
+    [Serializable]
     public class ListaClientes
     {
         private List<Cliente> listado;

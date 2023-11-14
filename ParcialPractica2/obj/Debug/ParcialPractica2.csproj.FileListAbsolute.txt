@@ -1,0 +1,10 @@
+C:\Users\tomok\OneDrive\Desktop\TP2\ParcialPracticaRecuperatorio2\ParcialPractica2\bin\Debug\ParcialPractica2.exe.config
+C:\Users\tomok\OneDrive\Desktop\TP2\ParcialPracticaRecuperatorio2\ParcialPractica2\bin\Debug\ParcialPractica2.exe
+C:\Users\tomok\OneDrive\Desktop\TP2\ParcialPracticaRecuperatorio2\ParcialPractica2\bin\Debug\ParcialPractica2.pdb
+C:\Users\tomok\OneDrive\Desktop\TP2\ParcialPracticaRecuperatorio2\ParcialPractica2\obj\Debug\ParcialPractica2.csproj.AssemblyReference.cache
+C:\Users\tomok\OneDrive\Desktop\TP2\ParcialPracticaRecuperatorio2\ParcialPractica2\obj\Debug\ParcialPractica2.Form1.resources
+C:\Users\tomok\OneDrive\Desktop\TP2\ParcialPracticaRecuperatorio2\ParcialPractica2\obj\Debug\ParcialPractica2.Properties.Resources.resources
+C:\Users\tomok\OneDrive\Desktop\TP2\ParcialPracticaRecuperatorio2\ParcialPractica2\obj\Debug\ParcialPractica2.csproj.GenerateResource.cache
+C:\Users\tomok\OneDrive\Desktop\TP2\ParcialPracticaRecuperatorio2\ParcialPractica2\obj\Debug\ParcialPractica2.csproj.CoreCompileInputs.cache
+C:\Users\tomok\OneDrive\Desktop\TP2\ParcialPracticaRecuperatorio2\ParcialPractica2\obj\Debug\ParcialPractica2.exe
+C:\Users\tomok\OneDrive\Desktop\TP2\ParcialPracticaRecuperatorio2\ParcialPractica2\obj\Debug\ParcialPractica2.pdb

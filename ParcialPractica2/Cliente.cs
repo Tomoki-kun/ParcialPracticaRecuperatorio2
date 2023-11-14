@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ParcialPractica2
 {
+    [Serializable]
     public class Cliente:IComparable
     {
         private string razonSocial;
@@ -20,6 +21,10 @@ namespace ParcialPractica2
             this.tope = tope;
         }
 
+        public int Codigo
+        {
+            get { return codigo; }
+        }
         public void AgregarCompra(double monto)
         {
             if (saldo + monto <= tope)
